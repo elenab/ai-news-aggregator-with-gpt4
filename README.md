@@ -31,7 +31,7 @@ See below the conversation with GPT-4
 
 <img width="856" alt="Screen Shot 2023-03-22 at 5 55 43 PM" src="https://user-images.githubusercontent.com/2171301/227047547-fd2c0256-7cc2-427e-8ee9-0ee1bfde9a09.png">
 
-Had some issues here with incomplete answers. Working around that now:
+### Had some issues here with incomplete answers. Working around that now:
 
 <img width="900" alt="Screen Shot 2023-03-22 at 5 56 19 PM" src="https://user-images.githubusercontent.com/2171301/227047632-5de6ec3f-3ee3-4ea7-b44b-d05481238d3d.png">
 
@@ -43,7 +43,7 @@ Had some issues here with incomplete answers. Working around that now:
 
 <img width="869" alt="Screen Shot 2023-03-22 at 5 59 01 PM" src="https://user-images.githubusercontent.com/2171301/227048091-a67de345-0933-46ff-9bd8-061f95371104.png">
 
-Asking me to merge the code blocks. More debugging
+### Asking me to merge the code blocks. More debugging
 
 <img width="863" alt="Screen Shot 2023-03-22 at 5 59 47 PM" src="https://user-images.githubusercontent.com/2171301/227048254-dd81e2de-6e60-4a2e-bf4b-869c5c69779b.png">
 

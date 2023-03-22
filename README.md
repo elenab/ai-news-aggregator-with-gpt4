@@ -2,14 +2,17 @@
 
 #### I have not typed a single character, only copy pasted from ChatGPT. I did have the development environment beforehand: npm, python, create-react-app etc.
 
+### Frontend screenshot
+<img width="400" alt="Screen Shot 2023-03-21 at 11 47 38 PM" src="https://user-images.githubusercontent.com/2171301/227049921-0f82cfea-2118-49f5-9aa0-f88feddaeda3.png">
+<img width="400" alt="Screen Shot 2023-03-21 at 11 47 51 PM" src="https://user-images.githubusercontent.com/2171301/227049939-d9853f73-b101-4917-9c55-01324ae4cf9b.png">
 
-See below the conversation with GPT-4
 
+### See below the conversation with GPT-4
 
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-    <img width="425" alt="Screen Shot 2023-03-22 at 5 49 25 PM" src="https://user-images.githubusercontent.com/2171301/227046468-cc037af0-3897-4e9c-a713-dbf3573fd42f.png">
+    <img width="625" alt="Screen Shot 2023-03-22 at 5 49 25 PM" src="https://user-images.githubusercontent.com/2171301/227046468-cc037af0-3897-4e9c-a713-dbf3573fd42f.png">
 
 <img width="867" alt="Screen Shot 2023-03-22 at 5 50 23 PM" src="https://user-images.githubusercontent.com/2171301/227046621-3a88c11f-5488-4d79-af34-663b9c1735ac.png">
 

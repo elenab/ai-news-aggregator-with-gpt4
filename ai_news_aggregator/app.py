@@ -6,9 +6,9 @@ app = Flask(__name__)
 CORS(app)
 
 RSS_FEEDS = {
-    'openai': 'https://openai.com/feed/',
-    'aws': 'https://aws.amazon.com/blogs/ai/feed/',
     'google': 'https://ai.googleblog.com/feeds/posts/default?alt=rss',
+    'openai': 'https://openai.com/blog/rss.xml',
+    'aws': 'https://aws.amazon.com/blogs/ai/feed/',
 }
 
 def get_articles_from_feed(feed_url):

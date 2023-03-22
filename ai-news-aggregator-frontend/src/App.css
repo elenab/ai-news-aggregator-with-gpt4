@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e5f2ff;
+}
+
+.App {
+  width: 90%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  table-layout: fixed;
+}
+
+th,
+td {
+  padding: 1rem;
+  text-align: left;
+  border: 1px solid #ccc;
+  word-wrap: break-word;
+}
+
+th {
+  background-color: #d9e7f3;
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.odd-row {
+  background-color: #f9f9f9;
+}
+
+.even-row {
+  background-color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  th,
+  td {
+    padding: 0.5rem;
+  }
+}
+.index-column {
+  max-width: 50px;
+}
